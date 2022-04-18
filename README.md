@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning ReactJS and React Native
 - 📫 You can reach me by samirelhassann@gmail.com
 
+<!--
 <div align="center">
   <a href="https://github.com/samirelhassann">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samirelhassann&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
@@ -21,3 +22,4 @@
 </div>
 
   ![Snake animation](https://github.com/samirelhassann/samirelhassann/blob/output/github-contribution-grid-snake.svg)
+-->
